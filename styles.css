@@ -1,0 +1,45 @@
+body {
+				font-family: Arial, sans-serif;
+				max-width: 1000px;
+				margin: 0 auto;
+				background-color: #f7f7dc;
+	}
+h1{
+	text-align: center;
+	text-decoration-color: orange;
+	text-shadow: inherit;
+	color: orange;
+}
+.INHA{
+	font-family: Verdana, sans-serif;
+	color: #0fb7f5;
+	font-weight: bold;
+}
+.name{
+font-family: "Lucida Console","Courier New", monospace;
+font-weight: bold;
+color: #f20a38;
+} 
+.info {
+	font-size: 10;
+}
+h3{
+color:#007A00;
+}
+.list {
+  background: #3399ff;
+  padding: 20px;
+}
+ul li {
+  background: #cce5ff;
+  margin: 5px;
+}
+.movie{
+color: #ed7b09;
+text-decoration: none;
+}
+img{
+	align-self: center;
+	height:300px;
+	width: 450px;
+}
